@@ -30,8 +30,8 @@ Describe any challenges encountered while building the app.
 
 #### REQUIRED (10pts)
 - [ ] (2pts) User sees an app icon on the home screen and a styled launch screen.
-- [ ] (5pts) User can view and scroll through a list of movies now playing in theaters.
-- [ ] (3pts) User can view the movie poster image for each movie.
+- [x] (5pts) User can view and scroll through a list of movies now playing in theaters.
+- [x] (3pts) User can view the movie poster image for each movie.
 
 #### BONUS
 - [ ] (2pt) User can view the app on various device sizes and orientations.
@@ -39,7 +39,7 @@ Describe any challenges encountered while building the app.
 
 ### App Walkthrough GIF
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="https://github.com/davidseungjin/dMovie/blob/main/ezgif.com-gif-maker.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
